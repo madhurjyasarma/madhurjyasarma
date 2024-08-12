@@ -14,7 +14,21 @@ I write code and this is my diary...
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" alt="FastAPIr logo" width="50" height="50">
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" alt="Flask logo" width="50" height="50">
-<img src="[https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="Git logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" alt="Git logo" width="50" height="50">
+
+
+
+
+
 
 
 
