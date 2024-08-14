@@ -1,5 +1,5 @@
 Hi, **I'm Madhurjya Goutam Sarma** :wave:
-AWS Data Engineer, Big Data Engineer, Devops, MLOps etc.
+AWS Data Engineer
 
 3+ years of product development experience. 
 
