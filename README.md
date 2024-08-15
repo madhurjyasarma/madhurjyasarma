@@ -1,8 +1,6 @@
 Hi, **I'm Madhurjya Goutam Sarma** :wave:
 AWS Data Engineer
 
-3+ years of product development experience. 
-
 I write code and this is my diary...
 
 ### 🧰 Toolbox
